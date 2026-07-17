@@ -14,7 +14,13 @@
 
 ## [Unreleased]
 
-> 进行中：第 2–6 周五个引擎（Teacher / Research+Writing / GC / Basketball / YouTube）内容就绪待实战检验；第 7 周自动化三条链路已实测跑通
+（暂无 —— 已进入运营期：引擎转正与日常沉淀在此记录）
+
+## [1.0.0] - 2026-07-17
+
+> **八周建设计划收官**：System 内核正式，七个引擎试运行（转正条件见 engines/README.md），
+> 31 条 Prompt 成体系（八域全覆盖 + 索引自动化），8 条工作流 + 8 个模板 + 2 份清单配套，
+> 三条自动化链路实测跑通。引擎「转正」随 Anthony 的实战检验逐个完成。
 
 ### Added
 
@@ -36,6 +42,7 @@
 - `templates/shorts_script.md`；`prompts/youtube/P-Y-002`（选题工厂）、`P-Y-003`（脚本起草，长/短双模板）。
 - **第 7 周**：`automation/scripts/` 三个脚本并实测跑通 —— `build_bundle.py`（跨平台打包，8 个 bundle 生成成功，配 Windows 双击版 `build_bundle.bat`）、`index_prompts.py`（Prompt 索引自动重建，18 条）、`stale_check.py`（知识库保鲜检查）。
 - `prompts/system/P-S-001_prompt_review.md`（Prompt 评测与迭代元工具）；`knowledge/ai/stack.md`（技术栈档案）；`.gitignore`（dist/ 私密产物不入库）。
+- **第 8 周**：Prompt 库 18 → 31 条，补齐各域高频任务 —— 教学 P-T-004~006（差异化练习/学情诊断/家长沟通）、研究 P-R-005~006（章节推进器/Defence 模拟）、写作 P-W-003~004（改写/三语翻译）、GC P-G-003~004（申报文书/Pembentangan 模拟）、篮球 P-B-004（周计划）、YouTube P-Y-004（数据复盘判读）、系统 P-S-002~003（每周复盘主持/会话交接摘要）。
 
 ### Changed
 
@@ -59,6 +66,7 @@
 - **第 7 周**：`engines/ai_engineer.md` 按技术栈校准（骨架 → 试运行）；`automation/README.md` 重写为「已建脚本使用指南 + 四平台接入（上传物统一用 bundle）」；`prompts/README.md` 索引改为脚本自动生成（INDEX 标记）。
 - `system/IDENTITY.md` —— AI 工程线补全：Windows、四平台、命令行水平（2026-07-17，来自 Anthony 本人）。
 - `ROADMAP.md` —— 第 7 周标记「三条链路已实测，待本机复跑」。
+- **第 8 周（收官）**：`prompts/README.md` 索引由脚本重建（31 条）；`engines/README.md` 引擎清单更新为「试运行 + 转正条件」；`checklists/weekly_review.md` 收尾节接入维护脚本；`README.md` 与 `ROADMAP.md` 更新为 v1.0.0 运营期状态。
 
 ## [0.1.0] - 2026-07-17
 

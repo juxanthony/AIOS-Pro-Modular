@@ -5,15 +5,15 @@
 
 ## 引擎清单
 
-| 引擎 | 文件 | 触发语示例 | 状态 | 转正周 |
+| 引擎 | 文件 | 触发语示例 | 状态 | 转正条件（待 Anthony 实战检验） |
 |---|---|---|---|---|
-| 教学 | `teaching.md` | 备课 / 出题 / 教案 / 学生 | 骨架 | 第 2 周 |
-| 研究 | `research.md` | 论文 / 文献 / 博士 / 导师 | 骨架 | 第 3 周 |
-| 写作 | `writing.md` | 写作 / 润色 / 改写 | 骨架 | 第 3 周（随研究引擎） |
-| Guru Cemerlang | `guru_cemerlang.md` | GC / 申报 / 文书 | 骨架 | 第 4 周 |
-| 篮球 | `basketball.md` | 训练 / 战术 / 球队 | 骨架 | 第 5 周 |
-| YouTube 商业 | `youtube_business.md` | 视频 / 频道 / 选题 / 脚本 | 骨架 | 第 6 周 |
-| AI 工程 | `ai_engineer.md` | 代码 / 自动化 / prompt 工程 | 骨架 | 第 7 周（随自动化） |
+| 教学 | `teaching.md` | 备课 / 出题 / RPH / 学生 | 试运行 | 用它备出一节真实课 |
+| 研究 | `research.md` | 论文 / 文献 / proposal / 导师 | 试运行 | 跑通开题问题关或一轮真实文献 |
+| 写作 | `writing.md` | 写作 / 润色 / 改写 | 试运行 | 随任一真实文书任务检验 |
+| Guru Cemerlang | `guru_cemerlang.md` | GC / 申报 / 文书 | 试运行 | 情报关 + 复盘关跑通 |
+| 篮球 | `basketball.md` | 训练 / 战术 / 球队 | 试运行 | 产出一份真实周训练计划 |
+| YouTube 商业 | `youtube_business.md` | 视频 / 频道 / 选题 / 脚本 | 试运行 | 定位定案 + 首支视频全流程 |
+| AI 工程 | `ai_engineer.md` | 代码 / 自动化 / 打包 | 试运行 | 本机复跑 `build_bundle.bat` |
 
 ## 引擎文件的统一结构
 

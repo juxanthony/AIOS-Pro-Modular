@@ -14,10 +14,11 @@
 | 5 | **Basketball Engine** | engines/basketball.md 转正 + 三线档案 + drill 库 + 周计划/赛后复盘工作流 | 产出一份完整周训练计划 | 🔶 内容就绪，待实战检验 |
 | 6 | **YouTube Business Engine** | engines/youtube_business.md 转正 + 定位决策工作流 + 选题→脚本→发布→复盘全链路 | 定位三环检验定案 + 走完首支视频全流程 | 🔶 内容就绪，待实战检验 |
 | 7 | **Automation Engine** | automation/ 脚本转正（打包/索引/保鲜）+ 四平台接入指南更新 | 至少一条真实自动化链路跑通 | 🔶 三条链路已实测（2026-07-17），待 Anthony 本机复跑 |
-| 8 | **Prompt Library** | prompts/ 扩充至各领域成体系 + 编号索引 | 常用任务 90% 能在库中直接找到可用 Prompt | ⬜ |
+| 8 | **Prompt Library** | 库扩至 31 条（八域全覆盖）+ 索引自动化 | 常用任务 90% 能在库中直接找到可用 Prompt | ✅ 完成（2026-07-17） |
 
 > 每周收尾动作（固定仪式）：跑一遍 `checklists/weekly_review.md` → 更新 CHANGELOG → 版本号 +0.1。
-> 第 8 周结束发布 **v1.0.0**。
+> ✅ **v1.0.0 已于 2026-07-17 发布** —— 建设期结束，运营期开始。
+> 运营期规则：五个待检验引擎每「转正」一个，修订号 +1（如 v1.0.1）；全部转正时发布 **v1.1.0「全线实战版」**。转正条件见 `engines/README.md`。
 
 ## 二、长期愿景（v1.0 之后）
 

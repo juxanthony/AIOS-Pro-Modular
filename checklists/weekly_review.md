@@ -23,5 +23,6 @@
 
 ## D. 收尾
 
+- [ ] 跑维护脚本并处理报告项：`python automation\scripts\index_prompts.py --check` + `python automation\scripts\stale_check.py`
 - [ ] git commit 本周全部改动（信息格式：`weekly: <周次> <一句话>`)
 - [ ] 用一句话给本周打分留档（current.md 底部）
