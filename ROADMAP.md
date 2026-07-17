@@ -8,7 +8,7 @@
 | 周 | 模块 | 交付物 | 完成标准 | 状态 |
 |---|---|---|---|---|
 | 1 | **System 内核** | system/ 六件套 + 仓库骨架 + 平台接入 | 任何 AI 读完 system/ 即可正确进入工作状态 | ✅ 完成（v0.1.0） |
-| 2 | **Teacher Engine** | engines/teaching.md 转正 + knowledge/teacher/ 首批知识 + 备课/出题/评语工作流与模板 | 用它完整备出一节课并生成配套材料 | ⬜ |
+| 2 | **Teacher Engine** | engines/teaching.md 转正 + knowledge/teacher/ 首批知识 + 备课/出题/评语工作流与模板 | 用它完整备出一节课并生成配套材料 | 🔶 内容就绪，待实战检验 |
 | 3 | **Research Engine** | engines/research.md 转正 + knowledge/phd/ 课题档案 + 文献综述/写作工作流 | 用它完成一轮文献检索→笔记→综述段落 | ⬜ |
 | 4 | **Guru Cemerlang Engine** | engines/guru_cemerlang.md 转正 + 申报材料库与时间线 | 生成一份符合要求的文书草稿 | ⬜ |
 | 5 | **Basketball Engine** | engines/basketball.md 转正 + 训练计划/战术/赛后复盘工作流 | 产出一份完整周训练计划 | ⬜ |

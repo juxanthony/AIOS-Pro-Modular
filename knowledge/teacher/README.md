@@ -1,8 +1,11 @@
 # knowledge/teacher/ · 教学知识库
 
-供 teaching 与 guru_cemerlang 引擎调用。**首批待建**（第 2 周）：
+供 teaching 与 guru_cemerlang 引擎调用。语境：小学 KSSR，三科（历史 Sejarah / 数学 Matematik / 英文 English）。
 
-- [ ] `subject_curriculum.md` —— 所教科目课标摘要：单元、学习标准编号速查【待填写：科目/年级】
-- [ ] `class_profiles.md` —— 班级档案：人数、程度分布、特殊情况（私密层）
-- [ ] `school_context.md` —— 学校语境：行事历要点、RPH 格式要求、上课节数
-- [ ] `gc_profile.md` —— Guru Cemerlang 实绩与证据清单（第 4 周，私密层）
+## 文件清单
+
+- [x] `subject_curriculum.md` —— 三科 KSSR 课标框架层摘要（编号纪律：只抄 DSKP，不凭记忆）
+- [x] `class_profiles.md` —— 班级档案骨架（🔒 私密层，待 Anthony 填写）
+- [x] `school_context.md` —— RPH 送审要求、PBD 记录、行事历骨架（🔒 私密层，待填写）
+- [ ] `dskp/` —— 各科各年级 DSKP 官方 PDF 存档（待 Anthony 下载放入，SK/SP 编号的唯一来源）
+- [ ] `gc_profile.md` —— Guru Cemerlang 实绩与证据清单（第 4 周，🔒 私密层）

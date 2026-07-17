@@ -14,7 +14,21 @@
 
 ## [Unreleased]
 
-（暂无）
+> 第 2 周 · Teacher Engine 进行中（实战检验一节真实课后发布 v0.2.0）
+
+### Added
+
+- `knowledge/teacher/subject_curriculum.md` —— 历史/数学/英文三科 KSSR 框架层摘要（含「编号只抄 DSKP」纪律）。
+- `knowledge/teacher/class_profiles.md`、`school_context.md` —— 班级与学校语境骨架（私密层，待填写）。
+- `prompts/teaching/P-T-003_remarks_pbd.md` —— 学生评语与 PBD 等级说明。
+
+### Changed
+
+- `system/IDENTITY.md` —— 教学主线占位符补全：小学 KSSR，三科（2026-07-17，来自 Anthony 本人）。
+- `templates/lesson_plan.md` —— 升级为 KSSR RPH 正式格式（马来文字段 + 中文注释，含 EMK/KBAT/PBD）。
+- `engines/teaching.md` —— 按真实科目校准；状态 骨架 → 试运行；依赖清单落到具体文件。
+- `workflows/lesson_planning.md` —— 接入 DSKP 抄录纪律与 PBD 自检点。
+- `ROADMAP.md` —— 第 2 周标记「内容就绪，待实战检验」。
 
 ## [0.1.0] - 2026-07-17
 
