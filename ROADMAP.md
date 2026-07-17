@@ -1,0 +1,48 @@
+# ROADMAP · AIOS Pro 建设路线图
+
+> 像开发软件一样建设这套系统：不追求一次做完，每周交付一个可用的模块。
+> 两个月后拥有一套真正属于自己的 AIOS，之后持续升级，永不推倒重来。
+
+## 一、8 周建设计划（v0.x → v1.0）
+
+| 周 | 模块 | 交付物 | 完成标准 | 状态 |
+|---|---|---|---|---|
+| 1 | **System 内核** | system/ 六件套 + 仓库骨架 + 平台接入 | 任何 AI 读完 system/ 即可正确进入工作状态 | ✅ 完成（v0.1.0） |
+| 2 | **Teacher Engine** | engines/teaching.md 转正 + knowledge/teacher/ 首批知识 + 备课/出题/评语工作流与模板 | 用它完整备出一节课并生成配套材料 | ⬜ |
+| 3 | **Research Engine** | engines/research.md 转正 + knowledge/phd/ 课题档案 + 文献综述/写作工作流 | 用它完成一轮文献检索→笔记→综述段落 | ⬜ |
+| 4 | **Guru Cemerlang Engine** | engines/guru_cemerlang.md 转正 + 申报材料库与时间线 | 生成一份符合要求的文书草稿 | ⬜ |
+| 5 | **Basketball Engine** | engines/basketball.md 转正 + 训练计划/战术/赛后复盘工作流 | 产出一份完整周训练计划 | ⬜ |
+| 6 | **YouTube Business Engine** | engines/youtube_business.md 转正 + 选题→脚本→发布→复盘全链路 | 走完一支视频从选题到发布清单的全流程 | ⬜ |
+| 7 | **Automation Engine** | automation/ 脚本与集成转正（API、本地模型、定时任务） | 至少一条真实自动化链路跑通 | ⬜ |
+| 8 | **Prompt Library** | prompts/ 扩充至各领域成体系 + 编号索引 | 常用任务 90% 能在库中直接找到可用 Prompt | ⬜ |
+
+> 每周收尾动作（固定仪式）：跑一遍 `checklists/weekly_review.md` → 更新 CHANGELOG → 版本号 +0.1。
+> 第 8 周结束发布 **v1.0.0**。
+
+## 二、长期愿景（v1.0 之后）
+
+AIOS Pro 的终态不是「几十页文档」，而是一个个人知识与工作平台：
+
+- 📖 约 300,000–500,000 字的体系化内容
+- 📂 500+ 个各司其职的 Markdown 模块
+- 🧠 3,000+ 条按领域编号、可检索的 Prompt
+- ⚙️ 1,000+ 条经过实战打磨的 SOP
+- 📚 覆盖教学、博士研究、Guru Cemerlang、篮球、YouTube、AI 工程的完整知识库
+- 🤖 在 Claude、ChatGPT、Gemini、Ollama 之间无缝迁移，不锁定任何平台
+
+这些数字不是一次性生成的目标，而是**日积月累的自然结果**：每完成一次真实任务，就沉淀一条 Prompt、一份模板或一条 SOP 回系统里（协议见 `system/SELF_IMPROVEMENT.md`）。
+
+## 三、候选方向（Backlog，未排期）
+
+- [ ] 知识库条目的自动索引与全文检索脚本（automation/）
+- [ ] 用 Claude Code 定时任务做每周复盘草稿自动生成
+- [ ] 个人数据看板：教学/研究/频道/训练四线进度一页总览
+- [ ] Prompt 效果评分制：记录使用次数与满意度，淘汰劣质 Prompt
+- [ ] 多语言层：马来文（Guru Cemerlang / 校务）与英文（论文）的平行模板
+- [ ] 家庭/财务等新领域引擎（确有需要时再立项）
+
+## 四、原则提醒
+
+1. **先用起来，再变大**。骨架阶段宁可文件少而精，不要空文件充数。
+2. **每个模块都要经过一次真实任务的检验**才能标记「正式」。
+3. **删除也是建设**。连续一个月没用到的内容，移入归档或删除。
