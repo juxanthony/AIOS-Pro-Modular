@@ -14,7 +14,7 @@
 
 ## [Unreleased]
 
-> 进行中：第 2 周 Teacher Engine、第 3 周 Research/Writing Engine —— 均为内容就绪，各自实战检验后转正并发布版本
+> 进行中：第 2 周 Teacher、第 3 周 Research/Writing、第 4 周 Guru Cemerlang —— 均为内容就绪，各自实战检验后转正并发布版本
 
 ### Added
 
@@ -25,6 +25,9 @@
 - `workflows/proposal_writing.md` —— 开题六关工作流（问题→文献→框架→方法→成文→defence），当前研究主线。
 - `prompts/research/P-R-003_paper_reading.md`、`P-R-004_rq_refinement.md`；`prompts/writing/P-W-002_argument_check.md`。
 - `templates/supervisor_update.md` —— 导师进度汇报模板。
+- **第 4 周**：`knowledge/teacher/gc_profile.md` —— GC 申报档案（复盘/条件对照/证据清单/时间线，数学科·今年再战）。
+- `workflows/gc_application.md` —— 申报再战六关（情报→复盘→证据→文书→评审→提交）。
+- `templates/gc_evidence_entry.md`、`gc_innovation_report.md`；`prompts/guru_cemerlang/P-G-001`、`P-G-002`。
 
 ### Changed
 
@@ -36,6 +39,9 @@
 - **第 3 周**：`engines/research.md` 按课题语境校准（骨架 → 试运行，接入「当前卡点」机制）；`engines/writing.md` 接入学术论证铁律（骨架 → 试运行）。
 - `system/IDENTITY.md` —— 博士主线占位符补全：数学教育、混合方法、开题阶段（2026-07-17，来自 Anthony 本人）。
 - `ROADMAP.md` —— 第 3 周标记「内容就绪，待实战检验」。
+- **第 4 周**：`engines/guru_cemerlang.md` 按申报语境校准（骨架 → 试运行，接入时间线报警机制）。
+- `system/IDENTITY.md` —— GC 主线占位符补全：数学科、曾申报、今年再战（2026-07-17，来自 Anthony 本人）。
+- `ROADMAP.md` —— 第 4 周标记「内容就绪，待实战检验」，完成标准改为「情报关+复盘关跑通」。
 
 ## [0.1.0] - 2026-07-17
 

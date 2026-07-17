@@ -8,4 +8,4 @@
 - [x] `class_profiles.md` —— 班级档案骨架（🔒 私密层，待 Anthony 填写）
 - [x] `school_context.md` —— RPH 送审要求、PBD 记录、行事历骨架（🔒 私密层，待填写）
 - [ ] `dskp/` —— 各科各年级 DSKP 官方 PDF 存档（待 Anthony 下载放入，SK/SP 编号的唯一来源）
-- [ ] `gc_profile.md` —— Guru Cemerlang 实绩与证据清单（第 4 周，🔒 私密层）
+- [x] `gc_profile.md` —— GC 申报档案：复盘、条件对照、证据清单、时间线（🔒 私密层；复盘与职级信息待 Anthony 填写）
