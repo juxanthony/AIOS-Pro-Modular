@@ -14,7 +14,7 @@
 
 ## [Unreleased]
 
-> 进行中：第 2 周 Teacher、第 3 周 Research/Writing、第 4 周 Guru Cemerlang、第 5 周 Basketball —— 均为内容就绪，各自实战检验后转正并发布版本
+> 进行中：第 2–6 周五个引擎（Teacher / Research+Writing / GC / Basketball / YouTube）均内容就绪，各自实战检验后转正并发布版本
 
 ### Added
 
@@ -31,6 +31,9 @@
 - **第 5 周**：`knowledge/basketball/team_profile.md`（三线档案：校队/校外/个人 + 对手情报）、`drills.md`（起步库 8 类 26 条，含小学生适配总则）。
 - `workflows/weekly_training_plan.md`（备战周计划）、`workflows/game_review.md`（赛后复盘）。
 - `templates/training_session.md`；`prompts/basketball/P-B-001`（课案）、`P-B-002`（复盘）、`P-B-003`（个人自训）。
+- **第 6 周**：`knowledge/youtube/channel_profile.md`（起步期档案 + 四候选定位分析）、`topic_pool.md`（打分规则 + 四方向 20 个实验选题）、`analytics_log.md`（双时点复盘骨架）。
+- `workflows/channel_positioning.md` —— 定位决策（资产盘点→三环检验→实验→定案），起步期第一优先。
+- `templates/shorts_script.md`；`prompts/youtube/P-Y-002`（选题工厂）、`P-Y-003`（脚本起草，长/短双模板）。
 
 ### Changed
 
@@ -48,6 +51,9 @@
 - **第 5 周**：`engines/basketball.md` 按三线语境校准（骨架 → 试运行，接入备战模式与安全红线）。
 - `system/IDENTITY.md` —— 篮球主线占位符补全：三线并行、每周 3+ 次、备战比赛（2026-07-17，来自 Anthony 本人）。
 - `ROADMAP.md` —— 第 5 周标记「内容就绪，待实战检验」。
+- **第 6 周**：`engines/youtube_business.md` 按起步语境校准（骨架 → 试运行：定位优先、产能现实主义、产品链经营）；`workflows/youtube_video_pipeline.md` 加入起步期定位实验规则。
+- `system/IDENTITY.md` —— YouTube 主线占位符补全：起步期、定位四候选、长短结合、自有产品变现（2026-07-17，来自 Anthony 本人）。
+- `ROADMAP.md` —— 第 6 周标记「内容就绪，待实战检验」，完成标准改为「定位定案 + 首支视频全流程」。
 
 ## [0.1.0] - 2026-07-17
 
