@@ -13,7 +13,7 @@
 | 4 | **Guru Cemerlang Engine** | engines/guru_cemerlang.md 转正 + 申报档案与再战工作流（数学科·今年提交） | 跑完情报关+复盘关，出真实补强清单 | 🔶 内容就绪，待实战检验 |
 | 5 | **Basketball Engine** | engines/basketball.md 转正 + 三线档案 + drill 库 + 周计划/赛后复盘工作流 | 产出一份完整周训练计划 | 🔶 内容就绪，待实战检验 |
 | 6 | **YouTube Business Engine** | engines/youtube_business.md 转正 + 定位决策工作流 + 选题→脚本→发布→复盘全链路 | 定位三环检验定案 + 走完首支视频全流程 | 🔶 内容就绪，待实战检验 |
-| 7 | **Automation Engine** | automation/ 脚本与集成转正（API、本地模型、定时任务） | 至少一条真实自动化链路跑通 | ⬜ |
+| 7 | **Automation Engine** | automation/ 脚本转正（打包/索引/保鲜）+ 四平台接入指南更新 | 至少一条真实自动化链路跑通 | 🔶 三条链路已实测（2026-07-17），待 Anthony 本机复跑 |
 | 8 | **Prompt Library** | prompts/ 扩充至各领域成体系 + 编号索引 | 常用任务 90% 能在库中直接找到可用 Prompt | ⬜ |
 
 > 每周收尾动作（固定仪式）：跑一遍 `checklists/weekly_review.md` → 更新 CHANGELOG → 版本号 +0.1。

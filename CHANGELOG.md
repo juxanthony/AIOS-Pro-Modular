@@ -14,7 +14,7 @@
 
 ## [Unreleased]
 
-> 进行中：第 2–6 周五个引擎（Teacher / Research+Writing / GC / Basketball / YouTube）均内容就绪，各自实战检验后转正并发布版本
+> 进行中：第 2–6 周五个引擎（Teacher / Research+Writing / GC / Basketball / YouTube）内容就绪待实战检验；第 7 周自动化三条链路已实测跑通
 
 ### Added
 
@@ -34,6 +34,8 @@
 - **第 6 周**：`knowledge/youtube/channel_profile.md`（起步期档案 + 四候选定位分析）、`topic_pool.md`（打分规则 + 四方向 20 个实验选题）、`analytics_log.md`（双时点复盘骨架）。
 - `workflows/channel_positioning.md` —— 定位决策（资产盘点→三环检验→实验→定案），起步期第一优先。
 - `templates/shorts_script.md`；`prompts/youtube/P-Y-002`（选题工厂）、`P-Y-003`（脚本起草，长/短双模板）。
+- **第 7 周**：`automation/scripts/` 三个脚本并实测跑通 —— `build_bundle.py`（跨平台打包，8 个 bundle 生成成功，配 Windows 双击版 `build_bundle.bat`）、`index_prompts.py`（Prompt 索引自动重建，18 条）、`stale_check.py`（知识库保鲜检查）。
+- `prompts/system/P-S-001_prompt_review.md`（Prompt 评测与迭代元工具）；`knowledge/ai/stack.md`（技术栈档案）；`.gitignore`（dist/ 私密产物不入库）。
 
 ### Changed
 
@@ -54,6 +56,9 @@
 - **第 6 周**：`engines/youtube_business.md` 按起步语境校准（骨架 → 试运行：定位优先、产能现实主义、产品链经营）；`workflows/youtube_video_pipeline.md` 加入起步期定位实验规则。
 - `system/IDENTITY.md` —— YouTube 主线占位符补全：起步期、定位四候选、长短结合、自有产品变现（2026-07-17，来自 Anthony 本人）。
 - `ROADMAP.md` —— 第 6 周标记「内容就绪，待实战检验」，完成标准改为「定位定案 + 首支视频全流程」。
+- **第 7 周**：`engines/ai_engineer.md` 按技术栈校准（骨架 → 试运行）；`automation/README.md` 重写为「已建脚本使用指南 + 四平台接入（上传物统一用 bundle）」；`prompts/README.md` 索引改为脚本自动生成（INDEX 标记）。
+- `system/IDENTITY.md` —— AI 工程线补全：Windows、四平台、命令行水平（2026-07-17，来自 Anthony 本人）。
+- `ROADMAP.md` —— 第 7 周标记「三条链路已实测，待本机复跑」。
 
 ## [0.1.0] - 2026-07-17
 
