@@ -33,12 +33,12 @@
 
 ### ChatGPT（自定义 GPT）
 
-1. 创建 GPT「AIOS Pro」，Instructions 放 `system/SYSTEM.md` 全文。
+1. 创建 GPT「AIOS Pro」，Instructions 放 `system/MASTER_PROMPT.md` 正文（横线内的八节）。
 2. Knowledge 上传对应 bundle（一个引擎一个文件，检索更稳）。
 
 ### Gemini（Gems）
 
-1. 新建 Gem，Instructions 放 `dist/aios_core.md` 内容（Gems 无文件库，核心协议须内嵌）。
+1. 新建 Gem，Instructions 放 `system/MASTER_PROMPT.md` 正文（Gems 无文件库，压缩版正合适）。
 2. 会话开头按需粘贴引擎 bundle。
 
 ### Ollama（本地/离线）

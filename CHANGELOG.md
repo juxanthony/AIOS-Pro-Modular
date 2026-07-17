@@ -17,10 +17,14 @@
 ### Added
 
 - `prompts/system/P-S-004_x1000_think.md` —— **X1000 THINK** 十二阶段深度决策协议（目标定义 → 语境重建 → 第一性原理 → 多学科视角 → 备选方案 → 压力测试 → 长期视角 → 自动化思维 → 知识沉淀 → 决策矩阵 → 行动计划 → 终检），协议正文由 Anthony 提供，已接入 R2 诚实分级与沉淀协议。
+- `system/MASTER_PROMPT.md` —— **压缩启动版（一页流）**：全系统八节压缩（身份/原则/思考引擎/参谋长模式/自我改进/知识加载/质量/输出），供 ChatGPT/Gemini Instructions 栏与无文件环境应急启动；结构由 Anthony 提供。
 
 ### Changed
 
-- `system/THINKING.md` —— 思考深度分级新增 **D5 X1000** 档（影响以年计/难回滚/跨主线的重大决策）；触发规则：用户显式喊「X1000」，AI 只建议不擅自启动。
+- `system/THINKING.md` —— 思考深度分级新增 **D5 X1000** 档（影响以年计/难回滚/跨主线的重大决策）；触发规则：用户显式喊「X1000」，AI 只建议不擅自启动；档位别名 **X10 = D4**、**X1000 = D5**。
+- `system/IDENTITY.md` —— AI 角色守则新增第 7 条「**参谋长模式（Chief of Staff）**」：主动发现机会、指出风险、建议自动化、建设可复用系统（每会话 ≤2 条）。
+- `system/RULES.md` —— R3 新增第 6 条：战略/分析产出以可执行下一步收尾；成品默认 Markdown。
+- `automation/README.md`、`README.md` —— ChatGPT/Gemini 接入方式改为使用 MASTER_PROMPT。
 
 ## [1.0.0] - 2026-07-17
 

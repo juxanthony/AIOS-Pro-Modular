@@ -89,8 +89,8 @@ AIOS-Pro-Modular/
 |---|---|---|
 | Claude Code | 仓库根目录的 `CLAUDE.md` 自动生效 | `automation/README.md` |
 | Claude Projects | 将 system/ + 常用引擎上传为 Project Knowledge | `automation/README.md` |
-| ChatGPT (GPTs) | system/ 六件套合并上传为 Knowledge，SYSTEM.md 摘要放 Instructions | `automation/README.md` |
-| Gemini | Gems 的 Instructions 放 SYSTEM.md，其余作为对话首条粘贴 | `automation/README.md` |
+| ChatGPT (GPTs) | Instructions 放 `system/MASTER_PROMPT.md`，引擎 bundle 上传为 Knowledge | `automation/README.md` |
+| Gemini | Gems 的 Instructions 放 `system/MASTER_PROMPT.md`，引擎按需粘贴 | `automation/README.md` |
 | Ollama（本地） | Modelfile 的 SYSTEM 段引用 system/ 拼接产物 | `automation/README.md` |
 
 ## 5. 约定
