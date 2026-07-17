@@ -13,8 +13,9 @@
 
 | 文件 | 成品 | 引擎 | 状态 |
 |---|---|---|---|
-| `lesson_plan.md` | 教案（RPH） | teaching | 骨架（第 2 周按学校格式校准） |
-| `paper_notes.md` | 单篇文献精读笔记 | research | 骨架（第 3 周校准） |
+| `lesson_plan.md` | 教案（RPH，KSSR 格式） | teaching | 试运行（待学校送审要求校准） |
+| `paper_notes.md` | 单篇文献精读笔记 | research | 试运行（配 P-R-003 使用） |
+| `supervisor_update.md` | 导师进度汇报 | research | 试运行（待按导师风格校准） |
 | `video_script.md` | 视频脚本 | youtube_business | 骨架（第 6 周校准） |
 
 待建（见各引擎「填充计划」）：试卷、评语库、正式邮件三语版、GC 证据条目、训练课计划、社媒帖子。

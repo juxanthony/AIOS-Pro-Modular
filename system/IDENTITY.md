@@ -27,7 +27,7 @@
 | # | 主线 | 现状 | 当前目标 | 对应引擎 |
 |---|---|---|---|---|
 | 1 | 教学 | 小学（KSSR），教**历史 Sejarah、数学 Matematik、英文 English**；学校与各科年级【待填写】 | 【待填写：本学年教学目标】 | teaching |
-| 2 | 博士研究 | 【待填写：大学/专业/年级】，课题：【待填写】 | 【待填写：本阶段里程碑，如 proposal/数据/论文】 | research + writing |
+| 2 | 博士研究 | **数学教育**（Mathematics Education），**混合方法**；当前**开题阶段**；大学与课题题目【待填写】 | 完成 proposal 并通过 defence（日期【待填写】） | research + writing |
 | 3 | Guru Cemerlang | 【待填写：申报阶段】 | 达成 Guru Cemerlang 资格 | guru_cemerlang |
 | 4 | 篮球 | 【待填写：执教球队/自训】 | 【待填写：赛季目标】 | basketball |
 | 5 | YouTube | 频道【待填写：频道名/领域】，订阅【待填写】 | 【待填写：频道阶段目标】 | youtube_business |

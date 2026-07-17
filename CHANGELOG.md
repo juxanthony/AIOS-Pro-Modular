@@ -14,13 +14,17 @@
 
 ## [Unreleased]
 
-> 第 2 周 · Teacher Engine 进行中（实战检验一节真实课后发布 v0.2.0）
+> 进行中：第 2 周 Teacher Engine、第 3 周 Research/Writing Engine —— 均为内容就绪，各自实战检验后转正并发布版本
 
 ### Added
 
 - `knowledge/teacher/subject_curriculum.md` —— 历史/数学/英文三科 KSSR 框架层摘要（含「编号只抄 DSKP」纪律）。
 - `knowledge/teacher/class_profiles.md`、`school_context.md` —— 班级与学校语境骨架（私密层，待填写）。
 - `prompts/teaching/P-T-003_remarks_pbd.md` —— 学生评语与 PBD 等级说明。
+- **第 3 周**：`knowledge/phd/` 四件 —— 课题档案（数学教育·混合方法·开题）、格式规范与论证铁律、导师档案、文献笔记库规范。
+- `workflows/proposal_writing.md` —— 开题六关工作流（问题→文献→框架→方法→成文→defence），当前研究主线。
+- `prompts/research/P-R-003_paper_reading.md`、`P-R-004_rq_refinement.md`；`prompts/writing/P-W-002_argument_check.md`。
+- `templates/supervisor_update.md` —— 导师进度汇报模板。
 
 ### Changed
 
@@ -29,6 +33,9 @@
 - `engines/teaching.md` —— 按真实科目校准；状态 骨架 → 试运行；依赖清单落到具体文件。
 - `workflows/lesson_planning.md` —— 接入 DSKP 抄录纪律与 PBD 自检点。
 - `ROADMAP.md` —— 第 2 周标记「内容就绪，待实战检验」。
+- **第 3 周**：`engines/research.md` 按课题语境校准（骨架 → 试运行，接入「当前卡点」机制）；`engines/writing.md` 接入学术论证铁律（骨架 → 试运行）。
+- `system/IDENTITY.md` —— 博士主线占位符补全：数学教育、混合方法、开题阶段（2026-07-17，来自 Anthony 本人）。
+- `ROADMAP.md` —— 第 3 周标记「内容就绪，待实战检验」。
 
 ## [0.1.0] - 2026-07-17
 

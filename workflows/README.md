@@ -22,8 +22,9 @@ yaml 元信息（模块/版本/状态/所属引擎/预计耗时）
 
 | 文件 | 所属引擎 | 状态 |
 |---|---|---|
-| `lesson_planning.md` | teaching | 骨架（第 2 周实战校准） |
-| `literature_review.md` | research | 骨架（第 3 周实战校准） |
+| `lesson_planning.md` | teaching | 试运行（待实战校准） |
+| `literature_review.md` | research | 试运行（待实战校准） |
+| `proposal_writing.md` | research | 试运行（开题六关，当前主线） |
 | `youtube_video_pipeline.md` | youtube_business | 骨架（第 6 周实战校准） |
 
 ## 质量纪律
