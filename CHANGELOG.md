@@ -14,7 +14,7 @@
 
 ## [Unreleased]
 
-> 进行中：第 2 周 Teacher、第 3 周 Research/Writing、第 4 周 Guru Cemerlang —— 均为内容就绪，各自实战检验后转正并发布版本
+> 进行中：第 2 周 Teacher、第 3 周 Research/Writing、第 4 周 Guru Cemerlang、第 5 周 Basketball —— 均为内容就绪，各自实战检验后转正并发布版本
 
 ### Added
 
@@ -28,6 +28,9 @@
 - **第 4 周**：`knowledge/teacher/gc_profile.md` —— GC 申报档案（复盘/条件对照/证据清单/时间线，数学科·今年再战）。
 - `workflows/gc_application.md` —— 申报再战六关（情报→复盘→证据→文书→评审→提交）。
 - `templates/gc_evidence_entry.md`、`gc_innovation_report.md`；`prompts/guru_cemerlang/P-G-001`、`P-G-002`。
+- **第 5 周**：`knowledge/basketball/team_profile.md`（三线档案：校队/校外/个人 + 对手情报）、`drills.md`（起步库 8 类 26 条，含小学生适配总则）。
+- `workflows/weekly_training_plan.md`（备战周计划）、`workflows/game_review.md`（赛后复盘）。
+- `templates/training_session.md`；`prompts/basketball/P-B-001`（课案）、`P-B-002`（复盘）、`P-B-003`（个人自训）。
 
 ### Changed
 
@@ -42,6 +45,9 @@
 - **第 4 周**：`engines/guru_cemerlang.md` 按申报语境校准（骨架 → 试运行，接入时间线报警机制）。
 - `system/IDENTITY.md` —— GC 主线占位符补全：数学科、曾申报、今年再战（2026-07-17，来自 Anthony 本人）。
 - `ROADMAP.md` —— 第 4 周标记「内容就绪，待实战检验」，完成标准改为「情报关+复盘关跑通」。
+- **第 5 周**：`engines/basketball.md` 按三线语境校准（骨架 → 试运行，接入备战模式与安全红线）。
+- `system/IDENTITY.md` —— 篮球主线占位符补全：三线并行、每周 3+ 次、备战比赛（2026-07-17，来自 Anthony 本人）。
+- `ROADMAP.md` —— 第 5 周标记「内容就绪，待实战检验」。
 
 ## [0.1.0] - 2026-07-17
 

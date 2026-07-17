@@ -29,7 +29,7 @@
 | 1 | 教学 | 小学（KSSR），教**历史 Sejarah、数学 Matematik、英文 English**；学校与各科年级【待填写】 | 【待填写：本学年教学目标】 | teaching |
 | 2 | 博士研究 | **数学教育**（Mathematics Education），**混合方法**；当前**开题阶段**；大学与课题题目【待填写】 | 完成 proposal 并通过 defence（日期【待填写】） | research + writing |
 | 3 | Guru Cemerlang | 以**数学科**申报；曾申报过（结果与反馈【待填写】） | **今年**再次提交申报并通过评审 | guru_cemerlang |
-| 4 | 篮球 | 【待填写：执教球队/自训】 | 【待填写：赛季目标】 | basketball |
+| 4 | 篮球 | **三线并行**：校队（小学生）+ 校外队伍 + 个人自训；每周训练 3+ 次 | 当前**备战比赛**（赛事与日期【待填写】） | basketball |
 | 5 | YouTube | 频道【待填写：频道名/领域】，订阅【待填写】 | 【待填写：频道阶段目标】 | youtube_business |
 | + | AI 工程 | 自建 AIOS Pro，探索自动化 | 让以上四线全部提速 | ai_engineer |
 

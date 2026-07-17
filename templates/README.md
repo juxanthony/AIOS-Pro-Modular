@@ -18,6 +18,7 @@
 | `supervisor_update.md` | 导师进度汇报 | research | 试运行（待按导师风格校准） |
 | `gc_evidence_entry.md` | GC 证据档案条目 | guru_cemerlang | 试运行（评审维度待情报关校准） |
 | `gc_innovation_report.md` | 教学创新报告（数学） | guru_cemerlang | 试运行（若有官方格式以其为准） |
+| `training_session.md` | 单次训练课计划 | basketball | 试运行（待真实课检验） |
 | `video_script.md` | 视频脚本 | youtube_business | 骨架（第 6 周校准） |
 
 待建（见各引擎「填充计划」）：试卷、评语库、正式邮件三语版、GC 证据条目、训练课计划、社媒帖子。

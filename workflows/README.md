@@ -26,6 +26,8 @@ yaml 元信息（模块/版本/状态/所属引擎/预计耗时）
 | `literature_review.md` | research | 试运行（待实战校准） |
 | `proposal_writing.md` | research | 试运行（开题六关，当前主线） |
 | `gc_application.md` | guru_cemerlang | 试运行（再战六关，今年申报主线） |
+| `weekly_training_plan.md` | basketball | 试运行（备战期主线） |
+| `game_review.md` | basketball | 试运行 |
 | `youtube_video_pipeline.md` | youtube_business | 骨架（第 6 周实战校准） |
 
 ## 质量纪律
