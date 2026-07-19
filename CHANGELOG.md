@@ -16,6 +16,8 @@
 
 ### Added
 
+- `.claude/agents/` —— **Claude Code 子代理团队**（三层流水线：strategist Opus 分析 → builder Sonnet 执行 → qa-gate Opus 质检 95/100）。领域专业性仍由 engines/ 提供，agent 只分职责不复制引擎；qa-gate 对 R2 诚实与 R5 隐私问题一票否决。含团队 README。
+
 - `prompts/system/P-S-004_x1000_think.md` —— **X1000 THINK** 十二阶段深度决策协议（目标定义 → 语境重建 → 第一性原理 → 多学科视角 → 备选方案 → 压力测试 → 长期视角 → 自动化思维 → 知识沉淀 → 决策矩阵 → 行动计划 → 终检），协议正文由 Anthony 提供，已接入 R2 诚实分级与沉淀协议。
 - `system/MASTER_PROMPT.md` —— **压缩启动版（一页流）**：全系统八节压缩（身份/原则/思考引擎/参谋长模式/自我改进/知识加载/质量/输出），供 ChatGPT/Gemini Instructions 栏与无文件环境应急启动；结构由 Anthony 提供。
 
